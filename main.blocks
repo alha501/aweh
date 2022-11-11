@@ -1,0 +1,7 @@
+<xml xmlns="https://developers.google.com/blockly/xml"><variables><variable id=",;EJ{_0k_RxZRY:z.fz#">count</variable></variables><block type="pxt-on-start" id="D7a-X-q,!t#t:NmvXnp[" x="-406" y="-6"><statement name="HANDLER"><block type="device_show_leds" id="STI2c!Gjs}0cK6tE4Y38"><field name="LEDS">`
+        . . . . . 
+        . . # . . 
+        . # . # . 
+        . . # . . 
+        . . . . .
+        `</field><next><block type="variables_set" id="$=FGA-N:eM-V*GG,1.b8"><field name="VAR" id=",;EJ{_0k_RxZRY:z.fz#">count</field><value name="VALUE"><shadow type="math_number" id="p]iz8g096|e.V_%vt1]8"><field name="NUM">0</field></shadow></value></block></next></block></statement></block><block type="device_gesture_event" id="/j,1~{CDMW3h^=eVO3U0" x="0" y="0"><field name="NAME">Gesture.FreeFall</field><statement name="HANDLER"><block type="variables_change" id="%nH(/3CP@^nDPd3%hOP2"><field name="VAR" id=",;EJ{_0k_RxZRY:z.fz#">count</field><value name="VALUE"><shadow type="math_number" id="U%V]oWgM*+Z{]`I!yFjn"><field name="NUM">1</field></shadow></value><next><block type="device_show_number" id="Jpa2~j_7I_f]C]nmL_tw"><value name="number"><shadow type="math_number"><field name="NUM">0</field></shadow><block type="variables_get" id="v(Kelf?czSrVGp$!22gX"><field name="VAR" id=",;EJ{_0k_RxZRY:z.fz#">count</field></block></value></block></next></block></statement></block></xml>
