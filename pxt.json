@@ -1,5 +1,5 @@
 {
-    "name": "..",
+    "name": "door alarm",
     "description": "",
     "dependencies": {
         "core": "*",
